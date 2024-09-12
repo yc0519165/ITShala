@@ -1,0 +1,16 @@
+body{
+  font-family:'Courier New', Courier, monospace;
+  font-size: 2rem;
+}
+p{
+  color: red;
+  font-size: 2rem;
+}
+.myClass{
+  color: green;
+  font-size: 2rem;
+}
+#my-Id{
+  color: red;
+  font-size: 2rem;
+}
